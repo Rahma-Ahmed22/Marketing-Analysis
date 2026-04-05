@@ -1,6 +1,6 @@
 # Marketing-Analysis
 
-1️⃣ ##Project Summary 
+1️⃣ #Project Summary 
 Marketing Analytics Dashboard – ShopEasy
 
 This project analyzes marketing performance and customer behavior for ShopEasy, an online retail company experiencing declining engagement and conversion rates despite increased marketing spending.
